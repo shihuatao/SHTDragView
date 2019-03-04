@@ -1,0 +1,27 @@
+PODS:
+  - Expecta (1.0.6)
+  - SHTDragView (0.1.0)
+  - Specta (1.0.7)
+
+DEPENDENCIES:
+  - Expecta
+  - SHTDragView (from `../`)
+  - Specta
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Expecta
+    - Specta
+
+EXTERNAL SOURCES:
+  SHTDragView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Expecta: 3b6bd90a64b9a1dcb0b70aa0e10a7f8f631667d5
+  SHTDragView: 5f1a195c1f5d18280f1415cff7ac31695557bd5e
+  Specta: 3e1bd89c3517421982dc4d1c992503e48bd5fe66
+
+PODFILE CHECKSUM: 652a97c743c3ac9ca7b4493af4b034cddc9523c6
+
+COCOAPODS: 1.6.0.beta.2

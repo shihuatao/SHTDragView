@@ -1,0 +1,6 @@
+framework module SHTDragView {
+  umbrella header "SHTDragView-umbrella.h"
+
+  export *
+  module * { export * }
+}
