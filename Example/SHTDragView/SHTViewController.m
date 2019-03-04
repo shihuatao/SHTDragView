@@ -7,6 +7,7 @@
 //
 
 #import "SHTViewController.h"
+#import "DragView.h"
 
 @interface SHTViewController ()
 
@@ -17,7 +18,12 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+    
+    DragView *dView = [[DragView alloc]initWithFrame:CGRectMake(100, 100, 100, 100)];
+    dView.bgImage = [UIImage imageNamed:@"ball"];
+    [self.view addSubview:dView];
+    
+    
 }
 
 - (void)didReceiveMemoryWarning

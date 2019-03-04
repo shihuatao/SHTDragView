@@ -1,15 +1,15 @@
 {
   "name": "SHTDragView",
   "version": "0.1.0",
-  "summary": "A short description of SHTDragView.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "DragView.",
+  "description": "Drag the view to follow your finger",
   "homepage": "https://github.com/shihuatao/SHTDragView",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "shihuatao": "shiht@mapbar.com"
+    "shihuatao": "meet_a_better_self@163.com"
   },
   "source": {
     "git": "https://github.com/shihuatao/SHTDragView.git",

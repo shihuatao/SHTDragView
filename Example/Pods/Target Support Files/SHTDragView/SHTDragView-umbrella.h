@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "DragView.h"
 
 FOUNDATION_EXPORT double SHTDragViewVersionNumber;
 FOUNDATION_EXPORT const unsigned char SHTDragViewVersionString[];
